@@ -1,2 +1,0 @@
-def get_keys():
-	return 'PKM3AW6LSV9TP0LB55ZU','SA4fMiSB7P0HIEsIHf2e2GVKiM3tNj9jsLwEhXTM'
